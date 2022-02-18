@@ -1,0 +1,6 @@
+cffi==1.15.0
+ffmpy==0.3.0
+numpy==1.21.5
+pedalboard==0.4.1
+pycparser==2.21
+SoundFile==0.10.3.post1
