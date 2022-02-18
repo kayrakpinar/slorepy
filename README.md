@@ -15,7 +15,7 @@ pip install -r requirements.txt
 or
 ```
 pip install pedalboard
-pip install ffmpeg
+pip install ffmpy
 pip install soundfile
 ```
 
