@@ -21,7 +21,7 @@ pip install soundfile
 
 ## Usage
 ```
-slorepy.py [-h] -a AUDIO [-e EXT]
+slorepy.py -a <wav file> -e <export extension>
 
 optional arguments:
   -h, --help            show this help message and exit
